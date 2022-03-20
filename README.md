@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lekhika Dugtal</h1>
-<h3 align="center">A passionate and adaptabe software engineer from India</h3>
+<h3 align="center">A passionate and adaptable software engineer from India</h3>
 
 - 🔭 Software Engineer **@ABB**
 - 👩‍💻 SWE Intern'20 **Google** and Outreachy '19 **Publiclabs** 
