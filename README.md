@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **React** and **Azure**
 - 👨‍💻 My Hackathon Project [CodeCapsule](https://github.com/CleverFool77/Code-Capsule) and rest lies in [**Ctrl-plus-C Organisation**](https://github.com/Ctrl-plus-C)
 
-- 📝 I wrote some articles on [https://medium.com/@lekhikadugtal](https://medium.com/@lekhikadugtal)
-
 - 💬 Ask me about **Bash, Docker, Kubernetes, Nginx**
 
 - 📫 How to reach me **lekhidugtal@gmail.com**
@@ -21,6 +19,7 @@
 - ⚡ **Anime Enthusiast and avid Manga Reader**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleverfool77&show_icons=true&locale=en&layout=compact" alt="cleverfool77" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleverfool77&show_icons=true&locale=en" alt="cleverfool77" /></p>
 
