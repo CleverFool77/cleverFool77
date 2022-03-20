@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lekhika Dugtal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate and adaptabe software engineer from India</h3>
 <h3 align="left">Connect with me:</h3>
 
 [![twitter](https://img.shields.io/badge/twitter-dugtallekhika-9cf)](https://twitter.com/dugtallekhika)
@@ -18,8 +18,7 @@
 
 - ⚡ **Anime Enthusiast and avid Manga Reader**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleverfool77&show_icons=true&locale=en&layout=compact" alt="cleverfool77" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleverfool77&show_icons=true&locale=en&layout=compact" alt="cleverfool77" /></p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cleverfool77&show_icons=true&locale=en" alt="cleverfool77" /></p>
 
