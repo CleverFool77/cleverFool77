@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lekhika Dugtal</h1>
 
-- 🔭 I'm a software engineer at**@ABB**, where I turn code into real-world solutions. 
+- 🔭 I'm a software engineer at **@ABB**, where I turn code into real-world solutions. 
 - 👩‍💻 In Past, I've been part of **Google** as a SWE Intern'20 and **Publiclabs** as Outreachy '19 intern.
 - 🏫 IIITA Graduate '21
 - 📫 How to reach me **lekhidugtal@gmail.com**
