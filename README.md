@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lekhika Dugtal</h1>
-<h3 align="center">A passionate and adaptable software engineer from India</h3>
 
-- 🔭 Software Engineer **@ABB**
-- 👩‍💻 SWE Intern'20 **Google** and Outreachy '19 **Publiclabs** 
+- 🔭 I'm a software engineer at**@ABB**, where I turn code into real-world solutions. 
+- 👩‍💻 In Past, I've been part of **Google** as a SWE Intern'20 and **Publiclabs** as Outreachy '19 intern.
 - 🏫 IIITA Graduate '21
-- 🌱 I’m currently learning **React** and **Azure**
-- 👨‍💻 My Hackathon Project [CodeCapsule](https://github.com/CleverFool77/Code-Capsule) and rest lies in [**Ctrl-plus-C Organisation**](https://github.com/Ctrl-plus-C)
-
-- 💬 Ask me about **Bash, Docker, Kubernetes, Nginx**
-
 - 📫 How to reach me **lekhidugtal@gmail.com**
 
 - ⚡ **Anime Enthusiast and avid Manga Reader**
